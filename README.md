@@ -22,7 +22,7 @@ The primary objective of this project is to offer viewers an engaging and inform
 
 ## Reference
 
-You can view the final project video and additional resources on [Google Drive](INSERT-YOUR-DRIVE-LINK-HERE).
+You can view the final project video and additional resources on [Google Drive](https://drive.google.com/drive/folders/1fqC7CCVob6uBXnVsV9cM4TtKMf29F6B-).
 
 ## Team Quantum 5
 
