@@ -16,10 +16,10 @@ The primary objective of this project is to offer viewers an engaging and inform
 
 ## Technologies Used
 
+- Adobe Illustrator  
 - Adobe After Effects  
-- Adobe Premiere Pro  
-- Audacity for sound editing  
-
+- Adobe Premiere Pro
+- 
 ## Reference
 
 You can view the final project video and additional resources on [Google Drive](https://drive.google.com/drive/folders/1fqC7CCVob6uBXnVsV9cM4TtKMf29F6B-).
